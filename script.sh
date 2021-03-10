@@ -1,3 +1,5 @@
 #!/bin/sh
 echo "Salut";
-touch fichier.txt
+touch fichier.txt;
+pwd;
+ls
